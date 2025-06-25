@@ -1,2 +1,2 @@
 # Sparklyr-Project
-Big Data Using Saprklyr
+Big Data Using Sparklyr
